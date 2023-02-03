@@ -9,3 +9,5 @@ NOTE:
 incase the .env file is not included then create a .env file and copy and paste from env.txt
 
 for the rent endpoint REF is where you will either and the student_id or the work_contract of a non student
+
+for user registration,login,logout you would have to use postman
